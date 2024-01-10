@@ -11,11 +11,13 @@ Hand gesture controlled Arduino robot
 # Project Images
 Vehicle and Receiver
 
-![IMG_3289](https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/d8b5c6a7-6f34-4f73-ac26-a6c48f7e74e3)
+<img width="543" alt="Screen Shot 2024-01-10 at 5 30 52 pm" src="https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/56a93c03-a0f9-412e-8d62-3976551c252f">
+
 
 Arduino 1 and Transmitter
 
-![IMG_3287](https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/919cc2d5-9c6f-48f5-9709-7260f09d07cb)
+<img width="539" alt="Screen Shot 2024-01-10 at 5 31 13 pm" src="https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/629f8d0e-30fe-410d-9d7d-539171d935fa">
+
 
 # Hand Gestures
 **Forward**
