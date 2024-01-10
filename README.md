@@ -9,16 +9,16 @@ Hand gesture controlled Arduino robot
 - Program should now communicate correctly to the arduino
 
 # Hand Gestures
-** Forward
+**Forward**
 <img width="513" alt="Screen Shot 2024-01-10 at 5 19 00 pm" src="https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/6c41f4a0-0c86-4ee0-8703-0f07a1e00a8f">
 
-** Stop
+**Stop**
 <img width="518" alt="Screen Shot 2024-01-10 at 5 19 21 pm" src="https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/0d2a066b-cb20-4e65-894c-ea06d265a1df">
 
-** Left
+**Left**
 <img width="516" alt="Screen Shot 2024-01-10 at 5 19 42 pm" src="https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/26e32372-5c37-4009-a1dd-3f0b31ffb769">
 
-** Right
+**Right**
  <img width="520" alt="Screen Shot 2024-01-10 at 5 20 01 pm" src="https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/a8edfc0e-616b-4a2c-a3a4-d21cc645e4db">
 
 
