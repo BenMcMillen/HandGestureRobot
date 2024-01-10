@@ -37,6 +37,11 @@ Hand gesture controlled Arduino robot
  <img width="520" alt="Screen Shot 2024-01-10 at 5 20 01 pm" src="https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/a8edfc0e-616b-4a2c-a3a4-d21cc645e4db">
 
 
+# Contributors
+- Benjamin McMillen
+- Sean Kim
+- Nathan Sivalingam
+
 
 # References
 - https://www.youtube.com/watch?v=a7B5EZVHHkw&t=250s adapted for hand controls
