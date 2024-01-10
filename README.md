@@ -8,6 +8,15 @@ Hand gesture controlled Arduino robot
 - run the python program such (webcam display should open to device)
 - Program should now communicate correctly to the arduino
 
+# Project Images
+Vehicle and Receiver
+
+![IMG_3289](https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/d8b5c6a7-6f34-4f73-ac26-a6c48f7e74e3)
+
+Arduino 1 and Transmitter
+
+![IMG_3287](https://github.com/BenMcMillen/HandGestureRobot/assets/105152944/919cc2d5-9c6f-48f5-9709-7260f09d07cb)
+
 # Hand Gestures
 **Forward**
 
