@@ -1,4 +1,4 @@
-# HandGestureRobot
+# Hand Gesture Robot
 Hand Gesture Controlled Arduino Robot 
 
 # Portfolio
@@ -6,10 +6,10 @@ Hand Gesture Controlled Arduino Robot
 
 # Usage
 - Python 3.10.9 is used
-- Mediapipe and opencv python libraries are used to deveop the program
-- Simply plug arduino into serial port and change the value of the serial port in the fingersensor.py file
-- run the python program such (webcam display should open to device)
-- Program should now communicate correctly to the arduino
+- Mediapipe and opencv python libraries are used to develop the program
+- Simply plug Arduino into the serial port and change the value of the serial port in the fingersensor.py file
+- Run the Python program such (webcam display should open to device)
+- The program should now communicate correctly to the Arduino
 
 # Project Images
 **Vehicle and Receiver**
@@ -47,5 +47,5 @@ Hand Gesture Controlled Arduino Robot
 
 
 # References
-- https://www.youtube.com/watch?v=a7B5EZVHHkw&t=250s adapted for hand controls
-- https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/ for transmitter and receiver arduino code
+- https://www.youtube.com/watch?v=a7B5EZVHHkw&t=250s - Adapted for hand controls
+- https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/ - Transmitter and receiver Arduino code
