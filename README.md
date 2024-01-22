@@ -2,7 +2,7 @@
 Hand Gesture Controlled Arduino Robot 
 
 # Portfolio
-[hand_gesture_robot.pdf](https://github.com/BenMcMillen/HandGestureRobot/files/13884930/hand_gesture_robot.pdf)
+[Hand_gesture_Robot Portfolio.pdf](file:///C:/Users/seako/Downloads/Hand%20Gesture%20Robot%20Portfolio.pdf)
 
 # Usage
 - Python 3.10.9 is used
